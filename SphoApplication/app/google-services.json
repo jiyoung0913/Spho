@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "89950413576",
+    "firebase_url": "https://sphoapp.firebaseio.com",
+    "project_id": "sphoapp",
+    "storage_bucket": "sphoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89950413576:android:917fd6b2f5619b519a02bd",
+        "android_client_info": {
+          "package_name": "com.example.sphoapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89950413576-1eao6k0vokklhouf5tvji869f982cupm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChStqqq2DKlkObIkq4FZWjhGn070fUdJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89950413576-1eao6k0vokklhouf5tvji869f982cupm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89950413576:android:03baf178b3725f8d9a02bd",
+        "android_client_info": {
+          "package_name": "com.jiyoung.sphoapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89950413576-1eao6k0vokklhouf5tvji869f982cupm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChStqqq2DKlkObIkq4FZWjhGn070fUdJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89950413576-1eao6k0vokklhouf5tvji869f982cupm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
